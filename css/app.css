@@ -1,0 +1,164 @@
+.displayNone{
+  display: none;
+}
+
+.text-center{
+  text-align: center;
+}
+
+header .menu {
+  background-color: #004d71;
+  padding: 1.5rem 3rem;
+  height: auto;
+}
+
+header .menu a {
+  color: #fff;
+}
+
+header .menu .inline-list {
+  text-align: center;
+}
+
+header .menu .inline-list li {
+  float: none;
+  display: inline-block;
+}
+
+header .menu .inline-list a {
+  color: #fff;
+  padding-bottom: 0.5rem;
+  transition: all .2s ease-in-out;
+}
+
+header .menu .inline-list a:hover {
+  color: #20ff00;
+}
+
+header .menu .inline-list .active a {
+  color: #20ff00;
+}
+
+header .menu .account {
+  position: absolute;
+  top: 3%;
+  right: 3%;
+}
+
+header .menu .account a, header .menu .account i {
+  color: #fff;
+}
+
+@media only screen and (min-width: 40.063em) {
+
+  header .menu {
+    height: 5rem;
+  }
+
+  header .menu .inline-list {
+    float: left;
+    margin: 0 0 0 1.5rem;
+  }
+}
+
+header .menu .account-action {
+  float: right;
+}
+
+header .menu .account-action li {
+  margin-left: .2rem;
+}
+
+header .menu .account-action a {
+  padding: 0.75rem 1rem;
+}
+
+header .menu .account-action a.signup {
+  font-weight: bold;
+  background-color: #3d4146;
+  border-radius: 3px;
+}
+
+header .name {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1;
+  margin: 0 0 1rem 0;
+  color: #fff;
+}
+
+header .name i {
+  color: #20ff00;
+  margin-right: 0.5rem;
+}
+
+@media only screen and (min-width: 40.063em) {
+  header .name {
+    float: left;
+  }
+}
+
+header .loginIcons{
+  font-size: 27px;
+}
+
+header .close-reveal-modal{
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.bigHome{
+  font-size: 1.8rem;
+  width: 100%;
+}
+
+.centers{
+  text-align: center;
+}
+
+.lefts{
+  text-align: left;
+}
+
+.CRTConfigTable{
+  width: 100% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.divsLista{
+
+}
+.divsLista > div{
+  border: 5px solid #000;
+  border-radius: 10px;
+}
+
+.opcoesCRT img{
+  height: 50px;
+}
+.opcoesLPedido img{
+  height: 25px;
+}
+
+tr.text-center > th{
+  text-align: center !important;
+}
+
+.empresaDesativada, .funcionarioDesativado, .participanteDesativado, .vendaCancelada, .eventoDesativado{
+  background: #ffabaa !important;
+  text-decoration: line-through;
+}
+
+.iconesVendas{
+  font-size: 22px;
+  color: #000;
+}
+
+.ticketsUsados{
+  color: #B3B3B3;
+}
+footer{
+  text-align: center;
+}

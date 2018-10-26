@@ -1,0 +1,30 @@
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+tr#header td{
+  text-align: center;
+}
+
+tr#header h1{
+  font-size: 2rem;
+}
+
+.borderAll{
+  border: 1.5px solid #000;
+}
+
+.borderTop{
+  border-top: 1.5px solid #000;
+}
+
+#listaEntrega td{
+  border: 1px solid #000;
+}
+
+
+
+.tableListaRelatorio{
+  font-size: 0.8rem;
+}

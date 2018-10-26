@@ -1,0 +1,27 @@
+{
+  "name": "syslunch",
+  "authors": [
+    "João Paulo Polles <joaopaulopolles@gmail.com>"
+  ],
+  "description": "Sistema Web de Controle de Almoços Únicos",
+  "main": "index.php",
+  "keywords": [
+    "lunch"
+  ],
+  "license": "No",
+  "homepage": "http://syslunch.xyz",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "^3.1.6"
+  },
+  "devDependencies": {
+    "crypto-js": "^3.1.6"
+  }
+}

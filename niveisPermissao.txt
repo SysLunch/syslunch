@@ -1,0 +1,10 @@
+Níveis de permissão
+1 - CRT
+2 - Usuário
+3 - Administrador
+4 - Super Administrador
+
+
+Situação:
+
+1 - Novo

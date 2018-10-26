@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "10.1.2.30",
+  "target": "/var/www/html/syslunch/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "acessoFTP",
+  "password": "Fundetec1234*",
+  "watch": [],
+  "transport": "scp"
+}

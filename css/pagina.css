@@ -1,0 +1,20 @@
+.tituloPagina{
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.subtituloPagina{
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+
+
+.barrasData{
+  font-size: 1.8rem;
+}
+
+.relatorios select{
+  margin: 0;
+}

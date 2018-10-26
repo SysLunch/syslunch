@@ -1,0 +1,5 @@
+{
+    "require": {
+        "werd/ivona-speechcloud-sdk-php": "^1.0"
+    }
+}

@@ -1,0 +1,128 @@
+.row h1, .row h2, .row h3, .row h4, .row h5, .row h6{
+  /*font-family: 'Abel', sans-serif;*/
+  /*font-family: 'Questrial', sans-serif;*/
+  font-family: 'Cabin', sans-serif;
+}
+#nomeCRT{
+  font-size: 1.5rem;
+}
+#carregando #carregandoI{
+  font-size: 16rem;
+}
+#carregando{
+  background: #0077BD;
+}
+.barras h4{
+  text-align: center;
+  font-weight: bold;
+  color: #0077bd;
+}
+
+#fundo{
+  position: relative;
+  overflow: hidden;
+}
+
+#fundo img{
+  border-radius: 15px;
+}
+
+#barras{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.bgGreen{
+  background: #0C5B04;
+  color: #fff !important;
+}
+
+.bgBlue{
+  background: #0077BD;
+  color: #fff !important;
+}
+
+.bgPurple{
+  background: #A404EA;
+  color: #fff !important;
+}
+
+.bgRed{
+  background: red;
+}
+
+.bgOrange{
+  background: orange;
+}
+
+.colorWhite{
+  color: white !important;
+}
+
+#status{
+  text-align: center;
+}
+
+#status #foto{
+  text-align: center;
+  padding-top: 3rem;
+}
+
+#status i{
+  font-size: 23rem;
+  line-height: 0 !important;
+}
+
+#status h1{
+  font-size: 3rem;
+  color: white;
+}
+
+#status h2{
+  font-size: 2rem;
+  color: white;
+}
+
+#status h3{
+  font-size: 4.5rem;
+  color: white;
+}
+
+#status h4{
+  font-size: 1.1rem;
+  color: white;
+}
+
+#status h5{
+  font-size: 1.7rem;
+  color: white;
+}
+
+#status h6{
+  font-size: 1.7rem;
+  color: white;
+}
+
+.colorGreen{
+  color: #0C5B04;
+}
+
+.colorBlue{
+  color: #0077BD !important;
+}
+
+.colorRed{
+  color: red;
+}
+.colorOrange{
+  color: orange;
+}
+
+#relogio h1{
+  font-size: 4rem;
+  text-align: center;
+}
+#relogio h2{
+  font-size: 6rem;
+  text-align: center;
+}
